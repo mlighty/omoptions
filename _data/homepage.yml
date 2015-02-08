@@ -32,7 +32,7 @@ learn:
     - number: "4"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/marketing.png"
       title: "How to define risk"
-      description: "The specific landing pages and e-mail campaign copy and guidelines you need to build excitement before your course is ready"
+      description: ""
     - number: "5"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/selling.png"
       title: "Advanced info"
