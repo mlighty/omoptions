@@ -6,7 +6,7 @@ hero:
 testimonial:
   quote: "Something About Jason"
   person: "<strong>Jason Ramus</strong>, <em>Co-Founder at One Month Options</a></em>"
-  image: "https pic of jason"
+  image: "/images/jason.jpg"
 
 about:
   title: "About the Course"
@@ -49,7 +49,7 @@ signup:
 letter:
   title: "A Letter from Orie<br/><small>Co-Founder at One Month Options</small>"
   subtitle: "Why We Created the Course"
-  image: "https pic of orie"
+  image: "/images/orie.jpg"
   contents:
     - paragraph: "<strong>Info</strong>"
     - paragraph: "When we first started teaching online we had no idea it was possible to make this type of impact with teaching."
