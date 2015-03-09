@@ -66,11 +66,9 @@ letter:
     - paragraph: "We’re looking forward to seeing the splash this course makes in the world. Sign up below to get your first lesson completely free."
     - paragraph: "See you soon!"
     - paragraph: "Orie & Jason, Co-founders at One Month Options"
-    - paragraph: ""
-    - paragraph: ""
 
 
-  bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
+bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
 
 bonuses:
   - logo: "https tos logo"
@@ -80,7 +78,7 @@ bonuses:
     text: "<strong>3 free months</strong> of any plan to handle research"
     value: "Value up to $747"
   - logo: "<img src='https://s3-us-west-2.amazonaws.com/static-css-assets/icons/question-mark.jpg'>"
-    text: "More bonuses to be announced"
+    text: "More features to be announced"
     value: "$$$"
 
 
