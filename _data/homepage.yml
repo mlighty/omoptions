@@ -51,8 +51,6 @@ letter:
   subtitle: "Why We Created One Month Options"
   image: "/images/orie.jpg"
   contents:
-    - paragraph: ""
-    - paragraph: ""
     - paragraph: "<strong>Thank you for your interest in OneMonthOptions.com!</strong>"
     - paragraph: "When I first started learning how to trade options, I never imagined how empowering it could be"
     - paragraph: "In two year's time options trading has become a very liberating side income and I realized two things - anyone can learn to trade options and it shouldn't take anywhere close to two years to ramp up."
@@ -71,9 +69,9 @@ letter:
 bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
 
 bonuses:
-  - logo: "https tos logo"
-    text: "<strong>3 free months</strong> of any  plan to build your online portfolio"
-    value: "Value up to $897"
+  - logo: "/images/tos.jpg
+    text: "Get started on ThinkorSwim <strong>free</strong>"
+    value: "Coupon Code"
   - logo: "http logo for something else"
     text: "<strong>3 free months</strong> of any plan to handle research"
     value: "Value up to $747"
