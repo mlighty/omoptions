@@ -23,7 +23,7 @@ learn:
     - number: "3"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/production.png"
       title: "Do More with Less Capital"
-      description: "Options allow investors to leverage capital and we'll be building trades that require far less capital than outright stock trading."
+      description: "Options allow investors to leverage capital and do more with less - we'll be building trades that require far less capital than outright stock trading."
     - number: "4"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/marketing.png"
       title: "Define Risk"
@@ -35,7 +35,7 @@ learn:
     - number: "6"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/business.png"
       title: "Trading for Income"
-      description: "Learn from others using these strategies for consistent monthly returns."
+      description: "Learn the tried and true techniques from a communinity of Los Angeles traders."
 
 signup:
   title: "Get a free lesson when this course launches"
