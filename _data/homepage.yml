@@ -10,7 +10,7 @@ testimonial:
 
 
 learn:
-  title: "In this course you will learn"
+  title: "In this course you will learn:"
   points:
     - number: "1"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/idea.png"
