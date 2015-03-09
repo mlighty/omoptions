@@ -8,25 +8,6 @@ testimonial:
   person: "<strong>Jason Ramus</strong>, <em>Co-Founder at One Month Options</a></em>"
   image: "/images/jason.jpg"
 
-about:
-  title: "About the Course"
-  first_paragraph: "<p>In this course you'll learn how to trade options for income whether it be supplementary income or full time job. Sections are organized into 30 days of digestible material covering everything from beginner basics to advanced strategies and trade execution."
-  income_table:
-    - month: "Day 1"
-      income: "Bull Call Spread"
-    - month: "Day 2"
-      income: "Bull Call Spread"
-    - month: "Day 3"
-      income: "Bull Call Spread"
-    - month: "Day 4"
-      income: "Bull Call Spread"
-    - month: "Day 5"
-      income: "Bull Call Spread"
-    - month: "Day 6"
-      income: "Bull Call Spread"
-    - month: "Day 7"
-      income: "Bull Call Spread"
-  call_to_action: "Notify me when this course launches"
 
 learn:
   title: "In this course you will learn"
