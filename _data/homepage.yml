@@ -69,7 +69,7 @@ letter:
 bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
 
 bonuses:
-  - logo: "/images/tos.jpg
+  - logo: "/images/tos.jpg"
     text: "Get started on ThinkorSwim <strong>free</strong>"
     value: "Coupon Code"
   - logo: "http logo for something else"
