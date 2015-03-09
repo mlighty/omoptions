@@ -4,13 +4,13 @@ hero:
   subtitle: "Learn to Trade for Income"
 
 testimonial:
-  quote: "We've built a course we wish existed for our own learnings"
+  quote: "We built the course we wish existed for our own learnings"
   person: "<strong>Jason Ramus</strong>, <em>Co-Founder at One Month Options</a></em>"
   image: "/images/jason.jpg"
 
 about:
   title: "About the Course"
-  first_paragraph: "<p>Here's where we'll talk abut the coars</p><p>We can make it as many paragraphs as we want like this."
+  first_paragraph: "<p>In this course you'll learn how to trade options for income whether it be supplementary income or full time job. Sections are organized into 30 days of digestible material covering everything from beginner basics to advanced strategies and trade execution."
 
   call_to_action: "Notify me when this course launches"
 
