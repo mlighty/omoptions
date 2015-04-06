@@ -43,7 +43,7 @@ signup:
 letter:
   title: "A Letter from Orie<br/><small>Co-Founder at One Month Options</small>"
   subtitle: "Why We Created One Month Options"
-  
+
   contents:
     - paragraph: "<strong>Thank you for your interest in OneMonthOptions.com!</strong>"
     - paragraph: "When I first started learning how to trade options, I never imagined how empowering it could be"
