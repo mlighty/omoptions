@@ -54,34 +54,19 @@ letter:
     - paragraph: "See you soon!"
     - paragraph: "Orie & Jason, Co-founders at One Month Options"
 
-
-bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
-
-bonuses:
-  - logo: "/images/tos.jpg"
-    text: "Get started on ThinkorSwim <strong>free</strong>"
-    value: "Coupon Code"
-  - logo: "http logo for something else"
-    text: "<strong>3 free months</strong> of any plan to handle research"
-    value: "Average course costs 1000-2000"
-  - logo: "<img src='https://s3-us-west-2.amazonaws.com/static-css-assets/icons/question-mark.jpg'>"
-    text: "More features to be announced"
-    value: "$$$"
-
-
 faq:
   title: "Frequently Asked Questions"
   qa:
     - question: "What skill level is this course geared towards?"
-      answer: "Whether you're totally new to investing or a seasoned investor looking to add options to the arsenal, this course is designed for you."
+      answer: "Totally new to options trading or a seasoned investor looking to add options to the arsenal, this course is designed for you."
     - question: "How much does this course cost?"
       answer: "We have not determined pricing yet - but it will likely be around $250 for a limited time after launch."
     - question: "When will this course open?"
-      answer: "We're looking to launch the course for a couple of days around May 1st. After opening enrollments for a couple of days, we are going to focus on helping the students inside the course achieve success. Based on how much time we have to invest, we may open up sign ups again in the future. To ensure you don't miss out on a spot, write a note to watch your email around the end of April. "
+      answer: "We're looking to launch the course for a couple of days around June 1st. After opening enrollments for a couple of days, we are going to focus on helping the students inside the course achieve success. Based on how much time we have to invest, we may open up sign ups again in the future. To ensure you don't miss out on a spot, write a note to watch your email around the end of May. "
     - question: "Why Think or Swim? What if I use a different platform?"
-      answer: "Our platform expertise is with TOS. We beleive it's user friendly, powerful, reliable, and widely used/supported. That said, if you don't use TOS, most of what we cover will still be applicable to any platform."
+      answer: "Our platform expertise is with TOS. We beleive it's user friendly, powerful, reliable, and widely used/supported. That said, if you don't use TOS, there's still a whole lot we cover that isn't unique to any platform."
     - question: "Why pay for a course when there's Google?"
-      answer: "Most of us learned by scraping together free information all over the web and it's a pain in the a*&. We know there's a better way having learned the hard way and so we constrcuted the course we wish existed - it's comprehensive but to the point, taking you from zero to trading in 30 days."
+      answer: "Most of us learned by scraping together free information all over the web and it's a pain in the a*&. We know there's a better way having learned the hard way and constrcuted the course we wish existed - it's comprehensive but to the point, taking you from zero to trading in 30 days."
 
 footer:
   copyright: "&copy; 2015, One Month Options"
