@@ -6,7 +6,6 @@ hero:
 testimonial:
   quote: "We built the course we wish we had"
   person: "<strong>Jason Ramus</strong>, <em>Co-Founder at One Month Options</a></em>"
-  image: "/images/jason.jpg"
 
 
 learn:
@@ -44,7 +43,7 @@ signup:
 letter:
   title: "A Letter from Orie<br/><small>Co-Founder at One Month Options</small>"
   subtitle: "Why We Created One Month Options"
-  image: "/images/orie.jpg"
+  
   contents:
     - paragraph: "<strong>Thank you for your interest in OneMonthOptions.com!</strong>"
     - paragraph: "When I first started learning how to trade options, I never imagined how empowering it could be"
