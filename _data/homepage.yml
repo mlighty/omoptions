@@ -38,7 +38,7 @@ signup:
 letter:
 
   subtitle: "Why We Created One Month Options"
-  image: "https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/1a3/3b4/31df92b.jpg"
+  image: "/images/dog.jpg"
 
   contents:
     - paragraph: "<strong>Thank you for your interest in OneMonthOptions.com!</strong>"
